@@ -20,11 +20,11 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
 
 - #### Basic Tools
 
-- Figma
-- Canva
-- Browser
-- Text editor
-- Terminal
+  - Figma
+  - Canva
+  - Browser
+  - Text editor
+  - Terminal
 
 - #### UI/UX
 
