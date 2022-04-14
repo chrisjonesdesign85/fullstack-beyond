@@ -11,7 +11,7 @@ I will continue to add to this document.
 
 - #### 0 Mindset
 
-  - The Subconscious mind and your Belifes
+  - The Subconscious mind and your Beliefes
   - How to think like a programmer
   
 - #### 1 Basics
