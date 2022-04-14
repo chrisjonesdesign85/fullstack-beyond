@@ -182,3 +182,11 @@ I will continue to add to this document.
 - ### 20 AI & Machine Learning
 
   - gitHub Copilot
+
+- #### 21 Project Management
+
+ - comming soon
+ 
+- #### 22 Freelancing
+
+  - coming soon
