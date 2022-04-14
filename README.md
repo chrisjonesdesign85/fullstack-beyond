@@ -7,7 +7,7 @@ date: 04/12/2022
 Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. 
 I will continue to add to this document.
 
-## Frontend Dev
+## Frontend Development
 
 - #### 0 Mindset
 
@@ -106,7 +106,7 @@ I will continue to add to this document.
   - JS webtoken
   - Auth0
 
-## Backend Dev
+## Backend Development
 
 - #### 12 Node.js
   
@@ -184,14 +184,15 @@ I will continue to add to this document.
 
 - #### 21 Project Management
 
- - comming soon
+ - [ comming soon ]
  
-- #### 22 Freelancing
+- #### 22 Freelancing 
 
-  - coming soon
+  - [ coming soon ]
 
 - ## Hardware
-  
+  - RaspberryPi
+  - Arduino
   - #### 23 How to Build a Computer
   
     - tools
@@ -201,7 +202,6 @@ I will continue to add to this document.
       - CPU
       - GPU
       - RAM
-          RAM stands for Random Access Memory
       - Power Supply
       - Case
         - ATX
