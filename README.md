@@ -4,11 +4,16 @@ title: Fullstack and Beyond A Road Map <br>
 by: Chris Jones Dev <br>
 date: 04/12/2022
 
-Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. I will continue to add to this document as things change.
+Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. 
+I will continue to add to this document.
 
 ### Frontend Dev
 
-- #### Basics
+- #### 0 Mindset
+  - The Subconscious mind and your Belifes
+  - How to think like a programmer
+  - 
+- #### 1 Basics
 
   - How to take Notes like a Sir
   - Google Fu
@@ -18,7 +23,7 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - Hosting Services
   - HTTP/HTTPS
 
-- #### Basic Tools
+- #### 2 Basic Tools
 
   - Figma
   - Canva
@@ -26,12 +31,12 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - Text editor
   - Terminal
 
-- #### UI/UX
+- #### 3 UI/UX
 
   - Design Principles
   - Color Theory
 
-- #### HTML
+- #### 4 HTML
 
   - Basic Syntax
   - Semantic HTML
@@ -39,7 +44,7 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - Accessibility
   - SEO
 
-- #### CSS
+- #### 5 CSS
 
   - Basic Syntax
   - Flex Box
@@ -47,13 +52,13 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - Responsive design
   - Animations
 
-- #### CSS Frameworks
+- #### 6 CSS Frameworks
 
   - Tailwind
   - Boostrap
   - Bulma
 
-- #### JavaScript
+- #### 7 JavaScript
 
   - Basic Syntax
   - DOM
@@ -62,7 +67,7 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - JSON
   - ES6+
 
-- #### JavaScript Frameworks
+- #### 8 JavaScript Frameworks
 
   - React js
     - Next.js
@@ -71,14 +76,14 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - Angular
     - Nuxt.js
 
-- #### Terminal
+- #### 9 Terminal
 
   - Basic Linux Commands
   - Version Control
   - git
   - gitHub
 
-- #### Hosting & Deployment
+- #### 10 Hosting & Deployment
 
   - Netlify
   - Versel
@@ -88,80 +93,84 @@ Here I present in a nuttshell everything involved within the realm of Full Stack
   - Lenode
   - Test Flight
 
-- #### Authentication
+- #### 11 Authentication
 
   - 0Auth
   - JS webtoken
   - Auth0
 
-### Backend Dev
+## Backend Dev
 
-- #### Node.js
+- #### 12 Node.js
+  
+  - JS Beyond the Browser
   - Express.js
   - NPM
-  -
-- #### API's
-
+  
+- #### 13 API's
+  
+  - Application Program Interfaces 101
   - Rest
   - GraphQL
 
-- #### Databases
+- #### 14 Databases
+
   - SQL
   - mySQL
   - PostgreSQL
 
-### Softskills & Personal Development
+- ### 15 Softskills & Personal Development
 
-- Communication
-- Team work
-- Attention to Detail
-- Problem Solving
-- Work Ethic
-- Time Managemnt
-- Adaptabiltiy
-- Interpersonal Skills
-- Creativitiy
-- Leadership
-- Motivation
-  - Imposter Syndrome
+  - Communication
+  - Team work
+  - Attention to Detail
+  - Problem Solving
+  - Work Ethic
+  - Time Managemnt
+  - Adaptabiltiy
+  - Interpersonal Skills
+  - Creativitiy
+  - Leadership
+  - Motivation
+    - Imposter Syndrome
 
-### Other Tech
+- ### 16 Other Tech
 
-- Svelte
-  - Svelte Kit
-- Atro
-- TypeScript
-- CSS Animations
-- Preproccessors
-- CSS Modules
-- CSS in JS
+  - Svelte
+    - Svelte Kit
+  - Atro
+  - TypeScript
+  - CSS Animations
+  - Preproccessors
+  - CSS Modules
+  - CSS in JS
 
-### Other Backend Languages
+- ### 17 Other Backend Languages
 
-- Go
-- Rust
-- Python
-- Dart
-- PHP
-- JAVA
-- Kotlin
-- C
-- C#
-- C ++
+  - Go
+  - Rust
+  - Python
+  - Dart
+  - PHP
+  - JAVA
+  - Kotlin
+  - C
+  - C#
+  - C ++
 
-### Block Chain
+- ### 18 Block Chain
 
-- Cryptocurrencies
-- NFT's
+  - Cryptocurrencies
+  - NFT's
 
-### Mobile Dev
+- ### 19 Mobile Dev
 
-- Swift
-- Java/ Kotlin
-- React Native
-- Flutter
-- Electron.js
+  - Swift
+  - Java/ Kotlin
+  - React Native
+  - Flutter
+  - Electron.js
 
-### AI & Machine Learning
+- ### 20 AI & Machine Learning
 
-- gitHub Copilot
+  - gitHub Copilot
