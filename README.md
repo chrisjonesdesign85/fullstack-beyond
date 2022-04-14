@@ -17,13 +17,12 @@ I will continue to add to this document.
 - #### 1 Basics
 
   - How to take Notes like a Sir
-    - Markdown.md
-    - Mermaid.js
     - Markdown Editors
       - Obsidian
       - inkdrop
       - vsCode
-       
+    - Markdown.md
+    - Mermaid.js 
   - Google Fu
   - How the Internet Works
   - Browsers
@@ -117,7 +116,7 @@ I will continue to add to this document.
   
 - #### 13 API's
   
-  - Application Program Interfaces 101
+  - Application Program Interface's 101
   - Rest
   - GraphQL
 
@@ -190,3 +189,19 @@ I will continue to add to this document.
 - #### 22 Freelancing
 
   - coming soon
+
+- ## Hardware
+  
+  - #### 23 How to Build a Computer
+  
+    - tools
+    - Components
+      - Motherboard
+      - Heat Sync
+      - CPU
+      - GPU
+      - RAM
+          RAM stands for Random Access Memory
+      - Power Supply
+      - Case
+        - ATX
