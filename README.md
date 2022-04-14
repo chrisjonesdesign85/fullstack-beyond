@@ -20,7 +20,7 @@ I will continue to add to this document.
 - ### 1 Basics
 
   - #### How to take Notes like a Sir
-    - As a web developer you need to be a master note taker. There are so many small moving parts and things to learn in web development that you need a system for taking in information, asiminating it, and then documenting it. For this I use Markdown.
+    - As a web developer you need to be a master note taker. There are so many small moving parts and things to learn in web development that you need a system for taking in information, assimilating it, and documenting it. For this I use Markdown.
   
   ---  
     
