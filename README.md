@@ -1,27 +1,70 @@
-# 2022 Full Stack and Beyond - (a road map for your dev journey)
-
+# 2022 Full Stack and Beyond :fire:
+(a road map for your dev journey)
+```
 title: Fullstack and Beyond A Road Map <br>
 by: Chris Jones Dev <br>
 date: 04/12/2022
+```
 
 Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. 
+
 I will continue to add to this document.
 
 ## Frontend Development
 
-- #### 0 Mindset
+- ### 0 Mindset
 
-  - The Subconscious mind and your Beliefes
+  - The Subconscious mind and your Belifes
   - How to think like a programmer
   
-- #### 1 Basics
+- ### 1 Basics
 
-  - How to take Notes like a Sir
+  - #### How to take Notes like a Sir
+    - As a web developer you need to be a master note taker. There are so many small moving parts and things to learn in web development that you need a system for taking in information, asiminating it, and then documenting it. For this I use Markdown.
+  
+  ---  
+    
+    - **Markdown.md**
+      - Why Use Markdown?
+        - Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
+        - Markdown is portable. Files containing Markdown formatted text can be opened using virtually any application
+        - Markdown is platform independent
+        - Markdown is future proof
+        - Markdown is everywhere
+        
+    - **Markdown basics**
+      - Headings
+        - # H1
+        - ## H2
+        - ### H3
+        - #### H4
+      - Bold
+        - **bold text**
+      - Italic
+        - *italicized text*
+      - Links
+        - `[title](https://www.example.com)`
+      - Images
+        - `![alt text](image.jpg)`
+      - Blockquote
+        - > blockquote
+      - Ordered List
+        - `1. First item`
+        - `2. Second item`
+        - `3. Third item`
+      - Unordered List
+        -  `- FIrst item`
+        -  `- Second item`
+        -  `- Third item`
+      -  ` `code` `
+      - Inline HTML
+      - Horizontal Rule
+        -  `---`
     - Markdown Editors
       - Obsidian
       - inkdrop
       - vsCode
-    - Markdown.md
+    - :fire: All the emmojis
     - Mermaid.js 
   - Google Fu
   - How the Internet Works
@@ -30,20 +73,21 @@ I will continue to add to this document.
   - Hosting Services
   - HTTP/HTTPS
 
-- #### 2 Basic Tools
+- ## 2 Basic Tools
 
-  - Figma
-  - Canva
   - Browser
   - Text editor
   - Terminal
+  - Figma
+  - Canva
 
-- #### 3 UI/UX
+- ## 3 UI/UX
 
   - Design Principles
   - Color Theory
+  - wireframing
 
-- #### 4 HTML
+- ## 4 HTML
 
   - Basic Syntax
   - Semantic HTML
@@ -51,7 +95,7 @@ I will continue to add to this document.
   - Accessibility
   - SEO
 
-- #### 5 CSS
+- ## 5 CSS
 
   - Basic Syntax
   - Flex Box
@@ -59,13 +103,13 @@ I will continue to add to this document.
   - Responsive design
   - Animations
 
-- #### 6 CSS Frameworks
+- ## 6 CSS Frameworks
 
   - Tailwind
   - Boostrap
   - Bulma
 
-- #### 7 JavaScript
+- ## 7 JavaScript
 
   - Basic Syntax
   - DOM
@@ -73,8 +117,67 @@ I will continue to add to this document.
   - Fetch API
   - JSON
   - ES6+
-
-- #### 8 JavaScript Frameworks
+    - ECMAScript 2015 or ES2015 is a singnificant update to the JS programming language It is the first major update to the language since ES5 which was standardized in 2009. Therefore, ES2015 is often called ES6.
+    
+    ## Section 1. New ES6 syntax
+      - let
+      - let vs. var
+      - const
+      - Default function parameters
+      - Rest parameter
+      - Spread Operator
+      - Object literal syntax extensions
+      - for...of
+      - OCtal and binary literals
+      - Template literals
+    ## Section 2. Destructuring
+      - Array Destructuring
+      - Object Destructuring
+    ## Section 3. ES6 Modules
+      - ES6 modules
+    ## Section 4. ES6 Classes
+      - Class
+      - Getters and Setters
+      - Class Epression
+      - Static methods
+      - Static Properties
+      - Computed Property
+      - Inheritance
+      - new.target
+    ## Section 5. Arrow Functions
+      - Arrow functions
+      - Arrow functions: when you should not use
+    ## Section 6. Symbol
+      - Symbol
+    ## Section 7. Iterators and Generators
+      - Iteraors
+      - Generators
+      - yield
+    ## Section 8. Promises
+      - Promises
+      - Promise chaining
+      - Promise composition
+      - Promise error handling
+    ## Section 9. ES6 Collections
+      - Map
+      - Set
+    ## Section 10. Array extensions
+      - Array.of()
+      - Array.from()
+      - Array.find()
+      - Array findIndex()
+    ## Section 11. Object extensions
+      - Object.assign()
+      - Object.is()
+    ## Section 12. String extensions
+      - String startsWith()
+      - String endsWith()
+      - String includes()
+    ## Section 13. Proxy & Reflection
+      - Proxy
+      - Reflection
+---
+- ## 8 JavaScript Frameworks
 
   - React js
     - Next.js
@@ -83,14 +186,14 @@ I will continue to add to this document.
   - Angular
     - Nuxt.js
 
-- #### 9 Terminal
+- ## 9 Terminal
 
   - Basic Linux Commands
   - Version Control
   - git
   - gitHub
 
-- #### 10 Hosting & Deployment
+- ## 10 Hosting & Deployment
 
   - Netlify
   - Versel
@@ -100,7 +203,7 @@ I will continue to add to this document.
   - Lenode
   - Test Flight
 
-- #### 11 Authentication
+- ## 11 Authentication
 
   - 0Auth
   - JS webtoken
@@ -108,25 +211,25 @@ I will continue to add to this document.
 
 ## Backend Development
 
-- #### 12 Node.js
+- ## 12 Node.js
   
   - JS Beyond the Browser
   - Express.js
   - NPM
   
-- #### 13 API's
+- ## 13 API's
   
   - Application Program Interface's 101
   - Rest
   - GraphQL
 
-- #### 14 Databases
+- ## 14 Databases
 
   - SQL
   - mySQL
   - PostgreSQL
 
-- ### 15 Softskills & Personal Development
+- ## 15 Softskills & Personal Development
 
   - Communication
   - Team work
@@ -141,7 +244,7 @@ I will continue to add to this document.
   - Motivation
     - Imposter Syndrome
 
-- ### 16 Other Tech
+- ## 16 Other Tech
 
   - Svelte
     - Svelte Kit
@@ -151,9 +254,11 @@ I will continue to add to this document.
   - Preproccessors
   - CSS Modules
   - CSS in JS
+  - WebGL
+  - SVGs
 
-- ### 17 Other Backend Languages
-
+- ## 17 Other Backend Languages
+- 
   - Go
   - Rust
   - Python
@@ -165,12 +270,12 @@ I will continue to add to this document.
   - C#
   - C ++
 
-- ### 18 Block Chain
-
+- ## 18 WEB3 
+  - Block Chain
   - Cryptocurrencies
   - NFT's
 
-- ### 19 Mobile Dev
+- ## 19 Mobile Dev
 
   - Swift
   - Java/ Kotlin
@@ -178,15 +283,15 @@ I will continue to add to this document.
   - Flutter
   - Electron.js
 
-- ### 20 AI & Machine Learning
+- ## 20 AI & Machine Learning
 
   - gitHub Copilot
 
-- #### 21 Project Management
+- ## 21 Project Management
 
  - [ comming soon ]
  
-- #### 22 Freelancing 
+- ## 22 Freelancing 
 
   - [ coming soon ]
 
