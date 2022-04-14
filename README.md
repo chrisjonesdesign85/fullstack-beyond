@@ -1,4 +1,4 @@
-# FUllstack and Beyond (a road map for your dev journey)
+# Full Stack and Beyond (a road map for your dev journey)
 
 title: Fullstack and Beyond A Road Map <br>
 by: Chris Jones Dev <br>
@@ -10,9 +10,10 @@ I will continue to add to this document.
 ### Frontend Dev
 
 - #### 0 Mindset
+
   - The Subconscious mind and your Belifes
   - How to think like a programmer
-  - 
+  
 - #### 1 Basics
 
   - How to take Notes like a Sir
