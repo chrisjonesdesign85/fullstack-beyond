@@ -1,4 +1,4 @@
-# Full Stack and Beyond (a road map for your dev journey)
+# 2022 Full Stack and Beyond - (a road map for your dev journey)
 
 title: Fullstack and Beyond A Road Map <br>
 by: Chris Jones Dev <br>
@@ -7,7 +7,7 @@ date: 04/12/2022
 Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. 
 I will continue to add to this document.
 
-### Frontend Dev
+## Frontend Dev
 
 - #### 0 Mindset
 
@@ -17,6 +17,13 @@ I will continue to add to this document.
 - #### 1 Basics
 
   - How to take Notes like a Sir
+    - Markdown.md
+    - Mermaid.js
+    - Markdown Editors
+      - Obsidian
+      - inkdrop
+      - vsCode
+       
   - Google Fu
   - How the Internet Works
   - Browsers
