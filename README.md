@@ -258,7 +258,7 @@ I will continue to add to this document.
   - SVGs
 
 - ## 17 Other Backend Languages
-- 
+
   - Go
   - Rust
   - Python
@@ -270,12 +270,15 @@ I will continue to add to this document.
   - C#
   - C ++
 
-- ## 18 WEB3 
+- ## 18 Web Security
+  - coming soon
+  
+- ## 19 WEB3 
   - Block Chain
   - Cryptocurrencies
   - NFT's
 
-- ## 19 Mobile Dev
+- ## 20 Mobile Dev
 
   - Swift
   - Java/ Kotlin
@@ -283,22 +286,23 @@ I will continue to add to this document.
   - Flutter
   - Electron.js
 
-- ## 20 AI & Machine Learning
+- ## 21 AI & Machine Learning
 
   - gitHub Copilot
 
-- ## 21 Project Management
+- ## 22 Project Management
 
  - [ comming soon ]
  
-- ## 22 Freelancing 
+- ## 23 Freelancing 
 
   - [ coming soon ]
 
-- ## Hardware
+- ## 24 Hardware
   - RaspberryPi
   - Arduino
-  - #### 23 How to Build a Computer
+  
+  - #### 25 How to Build a Computer
   
     - tools
     - Components
