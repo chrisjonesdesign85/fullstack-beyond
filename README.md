@@ -17,6 +17,7 @@ A Front-End Developer is someone who creates websites and web applications. The 
 
   - The Subconscious mind and your Belifes
   - How to think like a programmer
+  - The Japanese concept of `Kannin`
   
 - ### 1 Basics
 
@@ -24,8 +25,7 @@ A Front-End Developer is someone who creates websites and web applications. The 
     - As a web developer you need to be a master note taker. There are so many small moving parts and things to learn in web development that you need a system for taking in information, asiminating it, and then documenting it. For this I use Markdown.
 
     - #### Cornell Note taking system
-      -
-      
+      - ( In progress )
     - cherrytree
     - keep note
     - **Markdown.md**
