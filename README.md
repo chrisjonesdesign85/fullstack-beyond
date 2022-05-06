@@ -80,8 +80,18 @@ A Front-End Developer is someone who creates websites and web applications. The 
 - ## 2 Basic Tools
 
   - Browser
+    - Chrome
+    - Firefox
+    - Brave   
   - Text editor
+    - vs code
+    - Atom
+    - Brackets
+    - Vim 
   - Terminal
+    - Bash 
+    - Fish
+    - Git Bash (windows)
   - Figma
   - Canva
 
