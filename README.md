@@ -16,6 +16,8 @@ A Front-End Developer is someone who creates websites and web applications. The 
 - ### 0 Mindset
 
   - The Subconscious mind and your Belifes
+    - You must first believe you can become a web developer!
+     
   - How to think like a programmer
   
 - ### 1 Basics
