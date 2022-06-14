@@ -8,15 +8,19 @@ date: 04/12/2022
 
 Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. 
 
-I will continue to add to this document.
+** This is an ever evolving document. so check back often for updates. **
+
 
 ## Frontend Development
-A Front-End Developer is someone who creates websites and web applications. The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works. You can think of Front-End as client-side and Back-End as server-side.
+A Front-End Developer is someone who creates websites and web applications. 
+The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works. 
+You can think of Front-End as client-side and Back-End as server-side.
 
 - ### 0 Mindset
 
   - The Subconscious mind and your Belifes
     - You must first believe you can become a web developer!
+    - Every action you take comes from your subconscious and your belifes! If you think in your mind that you can't do something you NEVER will be able to.
      
   - How to think like a programmer
   
