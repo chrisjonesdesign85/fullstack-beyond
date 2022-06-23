@@ -72,7 +72,7 @@ You can think of Front-End as client-side and Back-End as server-side.
         -  `---`
     - Markdown Editors
       - Obsidian
-      - inkdrop
+      - inkdrop - I have been using this app soley now for taking notes! 
       - vsCode
     - :fire: All the emmojis
     - Mermaid.js 
