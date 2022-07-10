@@ -140,6 +140,17 @@ You can think of Front-End as client-side and Back-End as server-side.
 - ## 7 JavaScript
 
   - Basic Syntax
+  - Javascript Types
+    - Primitive values
+      - Boolean type
+      - Null type
+      - Undefined type
+      - Number type  
+      - BigInt type
+      - String type
+      - Symbol type
+    - Object (collection of properties)
+    
   - DOM
     - The Document Object Model uses objects to create a representation of the current page. It creates a new object for each element (and each individual section of text) within a page
   - BOM
