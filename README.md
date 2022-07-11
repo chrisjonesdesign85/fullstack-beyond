@@ -44,20 +44,22 @@ You can think of Front-End as client-side and Back-End as server-side.
         
     - **Markdown basics**
       - Headings
+      ```
         - # H1
         - ## H2
         - ### H3
         - #### H4
+        ```
       - Bold
-        - **bold text**
+        - `**bold text**`
       - Italic
-        - *italicized text*
+        - `*italicized text*`
       - Links
         - `[title](https://www.example.com)`
       - Images
         - `![alt text](image.jpg)`
       - Blockquote
-        - > blockquote
+        - `> blockquote`
       - Ordered List
         - `1. First item`
         - `2. Second item`
@@ -140,6 +142,9 @@ You can think of Front-End as client-side and Back-End as server-side.
 - ## 7 JavaScript
 
   - Basic Syntax
+  - Variables
+    - let
+    - const
   - Javascript Types
     - Primitive values
       - Boolean type
