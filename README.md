@@ -23,7 +23,8 @@ You can think of Front-End as client-side and Back-End as server-side.
     - Every action you take comes from your subconscious and your belifes! If you think in your mind that you can't do something you NEVER will be able to.
      
   - How to think like a programmer
-  
+  - Programming is about problem solving and using critical thinking skills.
+
 - ### 1 Basics
 
   - #### How to take Notes like a Sir
@@ -91,17 +92,20 @@ You can think of Front-End as client-side and Back-End as server-side.
     - Chrome
     - Firefox
     - Brave   
+
   - Text editor
-    - vs code
+    -  VSCode
     - Atom
     - Brackets
     - Vim 
+
   - Terminal
     - Bash 
     - Fish
     - Git Bash (windows)
-  - Figma
-  - Canva
+  - Wire framing 
+    - Figma
+    - Canva
 
 - ## 3 UI/UX
 
