@@ -6,31 +6,31 @@ by: Chris Jones Dev <br>
 date: 04/12/2022
 ```
 
-Here I present in a nuttshell everything involved within the realm of Full Stack Web Development. 
+Here I present in a nutshell everything involved within the realm of Full Stack Web Development. 
 
-** This is an ever evolving document. so check back often for updates. **
+** This is an ever-evolving document. so check back often for updates. **
 
 
 ## Frontend Development
 A Front-End Developer is someone who creates websites and web applications. 
 The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works. 
-You can think of Front-End as client-side and Back-End as server-side.
+You can think of Front-End as client side and Back-End as server-side.
 
 - ### 0 Mindset
 
-  - The Subconscious mind and your Belifes
+  - The Subconscious mind and your beliefs
     - You must first believe you can become a web developer!
-    - Every action you take comes from your subconscious and your belifes! If you think in your mind that you can't do something you NEVER will be able to.
+    - Every action you take comes from your subconscious and your beliefs! If you think in your mind that you can't do something you NEVER will be able to.
      
   - How to think like a programmer
-  - Programming is about problem solving and using critical thinking skills.
+  - Programming is about problem-solving and using critical thinking skills.
 
 - ### 1 Basics
 
   - #### How to take Notes like a Sir
-    - As a web developer you need to be a master note taker. There are so many small moving parts and things to learn in web development that you need a system for taking in information, asiminating it, and then documenting it. For this I use Markdown.
+    - As a web developer you need to be a master note-taker. There are so many small moving parts and things to learn in web development that you need a system for taking in information, assimilating it, and then documenting it. For this I use Markdown.
 
-    - #### Cornell Note taking system
+    - #### Cornell Note-taking system
       -
       
     - cherrytree
@@ -40,7 +40,7 @@ You can think of Front-End as client-side and Back-End as server-side.
         - Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
         - Markdown is portable. Files containing Markdown formatted text can be opened using virtually any application
         - Markdown is platform independent
-        - Markdown is future proof
+        - Markdown is future-proof
         - Markdown is everywhere
         
     - **Markdown basics**
@@ -75,11 +75,11 @@ You can think of Front-End as client-side and Back-End as server-side.
         -  `---`
     - Markdown Editors
       - Obsidian
-      - inkdrop - I have been using this app soley now for taking notes! 
-      - vsCode
-    - :fire: All the emmojis
+      - inkdrop - I have been using this app solely now for taking notes! 
+      - VS Code - my code editor of choice
+    - :fire: All the emojis
     - Mermaid.js 
-  - Google Fu
+  - Google-Fu
   - How the Internet Works
   - Browsers
   - Domain Names
@@ -103,13 +103,13 @@ You can think of Front-End as client-side and Back-End as server-side.
     - Bash 
     - Fish
     - Git Bash (windows)
-  - Wire framing 
+  - Wireframing 
     - Figma
     - Canva
 
 - ## 3 UI/UX
 
-  - ### UI Design Prenciples
+  - ### UI Design Principles
   
      - White Space
      - Contrast
@@ -140,7 +140,7 @@ You can think of Front-End as client-side and Back-End as server-side.
 - ## 6 CSS Frameworks
 
   - Tailwind
-  - Boostrap
+  - Bootstrap
   - Bulma
 
 - ## 7 JavaScript
@@ -163,12 +163,12 @@ You can think of Front-End as client-side and Back-End as server-side.
   - DOM
     - The Document Object Model uses objects to create a representation of the current page. It creates a new object for each element (and each individual section of text) within a page
   - BOM
-    - The Browser Object Model contains objects that represent the current browser window or tab. It contains objects that model things like browser history and the sevice's screen.
+    - The Browser Object Model contains objects that represent the current browser window or tab. It contains objects that model things like browser history and the service's screen.
       
   - Fetch API
   - JSON
   - ES6+
-    - ECMAScript 2015 or ES2015 is a singnificant update to the JS programming language It is the first major update to the language since ES5 which was standardized in 2009. Therefore, ES2015 is often called ES6.
+    - ECMAScript 2015 or ES2015 is a significant update to the JS programming language It is the first major update to the language since ES5 which was standardized in 2009. Therefore, ES2015 is often called ES6.
     
     ## Section 1. New ES6 syntax
       - let
@@ -189,7 +189,7 @@ You can think of Front-End as client-side and Back-End as server-side.
     ## Section 4. ES6 Classes
       - Class
       - Getters and Setters
-      - Class Epression
+      - Class Expression
       - Static methods
       - Static Properties
       - Computed Property
@@ -201,7 +201,7 @@ You can think of Front-End as client-side and Back-End as server-side.
     ## Section 6. Symbol
       - Symbol
     ## Section 7. Iterators and Generators
-      - Iteraors
+      - Iterators
       - Generators
       - yield
     ## Section 8. Promises
@@ -242,22 +242,22 @@ You can think of Front-End as client-side and Back-End as server-side.
   - Basic Linux Commands
   - Version Control
   - git
-  - gitHub
+  - GitHub
 
 - ## 10 Hosting & Deployment
 
   - Netlify
   - Versel
   - cloud flare
-  - gitHub Pages
+  - GitHub Pages
   - Heroku
-  - Lenode
+  - Linode
   - Test Flight
 
 - ## 11 Authentication
 
   - 0Auth
-  - JS webtoken
+  - JS web token
   - Auth0
 
 ## Backend Development
@@ -277,20 +277,20 @@ You can think of Front-End as client-side and Back-End as server-side.
 - ## 14 Databases
 
   - SQL
-  - mySQL
+  - MySQL
   - PostgreSQL
 
 - ## 15 Softskills & Personal Development
 
   - Communication
-  - Team work
+  - Teamwork
   - Attention to Detail
   - Problem Solving
   - Work Ethic
-  - Time Managemnt
-  - Adaptabiltiy
+  - Time Management
+  - Adaptability
   - Interpersonal Skills
-  - Creativitiy
+  - Creativity
   - Leadership
   - Motivation
     - Imposter Syndrome
@@ -302,7 +302,7 @@ You can think of Front-End as client-side and Back-End as server-side.
   - Atro
   - TypeScript
   - CSS Animations
-  - Preproccessors
+  - Preprocessors
   - CSS Modules
   - CSS in JS
   - WebGL
@@ -338,11 +338,11 @@ You can think of Front-End as client-side and Back-End as server-side.
 
 - ## 20 AI & Machine Learning
 
-  - gitHub Copilot
+  - GitHub Copilot
 
 - ## 21 Project Management
 
- - [ comming soon ]
+ - [coming soon ]
  
 - ## 22 Freelancing 
 
@@ -363,11 +363,12 @@ You can think of Front-End as client-side and Back-End as server-side.
       - Power Supply
       - Case
         - ATX
+      - Raspberry Pi
 
 
 ## Linux
 - ### nano
-  - nano is a simple, easy to use editor that you'll usually find on unix/linux operating systems.
+  - nano is a simple, easy-to-use editor that you'll usually find on Unix/Linux operating systems.
   - There are a few basic key commands you need to know to start out with nano:
   - Edit something with nano:
     - `nano filenam.txt`
